@@ -4,3 +4,6 @@
 
 > 您可以通过：QQ `1846334075`、微信 `zhoujirui54` 与我联系。
 
+<video src="https://www.bilibili.com/video/BV1dD4y1F7y7?share_source=copy_web" controls="controls">
+您的浏览器不支持 video 标签。
+</video>
