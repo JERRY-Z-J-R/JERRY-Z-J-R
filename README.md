@@ -1,6 +1,6 @@
-<div align="center">
-  <img width="100%" src="mark-img/readme.gif">
-  <img width="86%" src="mark-img/readme.png">
-  <p>======  QQ：1846334075&nbsp;&nbsp;&nbsp;微信：zhoujirui54  ======</p>
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JERRY-Z-J-R&theme=radical&hide=contribs,prs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JERRY-Z-J-R&layout=compact&theme=radical" />
+</a>
