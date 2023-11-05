@@ -1,4 +1,4 @@
-# <div align="center">你好！My name is Jerry Zhou 周吉瑞（zhōu jí ruì）👻</div>  
+# <div align="center" color="#fff">你好！My name is Jerry Zhou 周吉瑞（zhōu jí ruì）👻</div>  
   
 
 ### <div align="center">💘 LOVE：Design, Photography, Front-end, Machinery & Electronics. 👨‍💻</div>  
