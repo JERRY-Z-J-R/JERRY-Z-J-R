@@ -4,5 +4,5 @@
 ### <div align="center">FINANCE + PHOTOGRAPHY + PROGRAMMING</div>  
   
 
-### <div align="center">An independent trader & photographer & developer.</div>  
+#### <div align="center">An independent trader & photographer & developer.</div>  
 
