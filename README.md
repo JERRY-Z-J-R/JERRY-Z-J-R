@@ -6,3 +6,6 @@
 
 ##### <div align="center">An independent trader & photographer & developer.</div>  
 
+
+##### <div align="center">天若有情天亦老，人间正道是沧桑</div>  
+
